@@ -3,3 +3,5 @@ def f(x):
   while x > 1:
     (x,d) = (x/2,d+1)
   return(d)
+
+adad
